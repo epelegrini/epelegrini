@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/enzo-pelegrini-26b20a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: terrible at developing backend and frontend lover
 
 
